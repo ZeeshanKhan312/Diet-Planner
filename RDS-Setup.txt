@@ -1,5 +1,5 @@
-export DB_HOST=database-1.cz6gckmysad4.ap-south-1.rds.amazonaws.com
-export DB_PORT=3306
-export DB_NAME=diet_planner
-export DB_USERNAME=admin
-export DB_PASSWORD=Raiyaan6511
+Environment=DB_HOST=database-1.cz6gckmysad4.ap-south-1.rds.amazonaws.com
+Environment=DB_PORT=3306
+Environment=DB_NAME=diet_planner
+Environment=DB_USERNAME=admin
+Environment=DB_PASSWORD=Raiyaan6511
